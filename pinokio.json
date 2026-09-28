@@ -1,0 +1,9 @@
+{
+  "id": "ai-3d-generator",
+  "name": "AI 3D Generator",
+  "version": "1.0.0",
+  "scripts": {
+    "install": "install.js",
+    "start": "start.js"
+  }
+}
